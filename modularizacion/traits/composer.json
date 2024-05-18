@@ -1,0 +1,17 @@
+{
+    "name": "webmaster/traits",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JuanCM",
+            "email": "juancampuzano2356@gmail.com"
+        }
+    ],
+    "require": {}
+}
