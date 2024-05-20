@@ -1,8 +1,12 @@
 <?php
   
+  // setcookie(
+  //   name: "header_color",
+  //   value: "#12373d"
+  // );
   setcookie(
-    name: "header_color",
-    value: "#12373d"
+    "header_color",
+    "#12373d"
   );
 
   $color = $_COOKIE["header_color"] ?? "#121f3d";
